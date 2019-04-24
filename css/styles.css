@@ -24,15 +24,15 @@
   color: #0074D9;
 }
 
-/*.elem2 {
-  position:relative;
-  bottom:447px;
-  left:140px;
-  font-size:150px;
-  color:#0074D9;
-
+.elem2 {
+  position: relative;
+  bottom: 447px;
+  left: 140px;
+  font-size: 150px;
+  color: #0074D9;
 }
-.sub1 {
+
+/*.sub1 {
   position:relative;
   bottom:205px;
   left:70px;
