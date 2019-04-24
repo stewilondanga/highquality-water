@@ -19,11 +19,12 @@
   margin-top: 380px;
 }
 
-/*.elem1 {
-  font-size:150px;
-  color:#0074D9;
+.elem1 {
+  font-size: 150px;
+  color: #0074D9;
 }
-.elem2 {
+
+/*.elem2 {
   position:relative;
   bottom:447px;
   left:140px;
