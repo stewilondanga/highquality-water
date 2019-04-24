@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -19,6 +19,43 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+.main-head {
+}
+.elem-section {
+  margin-top:380px;
+}
+.elem1 {
+  font-size:150px;
+  color:#0074D9;
+}
+.elem2 {
+  position:relative;
+  bottom:447px;
+  left:140px;
+  font-size:150px;
+  color:#0074D9;
+
+}
+.sub1 {
+  position:relative;
+  bottom:205px;
+  left:70px;
+  font-size:150px;
+  color:#0074D9;
+}
+.highquality-h2o {
+  position: relative;
+  bottom:705px;
+  right:80px;
+}
+.water-droplet {
+  position: relative;
+  bottom:985px;
+  left:840px;
+  color:#0074D9;
+  font-size:150px
 }
 
 .containers {
