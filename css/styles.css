@@ -40,12 +40,13 @@
   color: #0074D9;
 }
 
-/*.highquality-h2o {
+.highquality-h2o {
   position: relative;
-  bottom:705px;
-  right:80px;
+  bottom: 705px;
+  right: 80px;
 }
-.water-droplet {
+
+/*.water-droplet {
   position: relative;
   bottom:985px;
   left:840px;
