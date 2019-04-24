@@ -13,14 +13,13 @@
   height: 1.5em;
 }
 
-.main-head {
-  
+.main-head {}
+
+.elem-section {
+  margin-top: 380px;
 }
 
-/*.elem-section {
-  margin-top:380px;
-}
-.elem1 {
+/*.elem1 {
   font-size:150px;
   color:#0074D9;
 }
