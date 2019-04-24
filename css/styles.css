@@ -46,15 +46,15 @@
   right: 80px;
 }
 
-/*.water-droplet {
+.water-droplet {
   position: relative;
-  bottom:985px;
-  left:840px;
-  color:#0074D9;
-  font-size:150px
+  bottom: 985px;
+  left: 840px;
+  color: #0074D9;
+  font-size: 150px
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
