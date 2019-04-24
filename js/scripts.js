@@ -6,3 +6,5 @@ var navigate = (function() {
 		$('.' + dataName).toggle();
 	});
 })();
+
+AOS.init();
